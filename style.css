@@ -1,0 +1,13 @@
+*{
+     font-family: "Poppins", sans-serif;
+}
+
+.font-bangla{
+    font-family: "Hind Siliguri", sans-serif;
+}
+
+.input-type{
+    margin-top:6px;
+    margin-bottom: 8px;
+    padding: 5px;
+}
